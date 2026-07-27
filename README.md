@@ -13,7 +13,7 @@ I design, build and deploy web platforms from scratch. Running [Upluce](https://
 
 ### Stack
 
-TypeScript · React · Next.js · Fastify · Prisma · PostgreSQL · Redis · Rust · Tauri · PHP · Docker · Turborepo
+TypeScript · React · Next.js · Fastify · Prisma · PostgreSQL · Redis · Rust · Tauri · Docker · Turborepo · AI · LLM · Machine Learning
 
 ### Let's connect
 
